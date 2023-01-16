@@ -29,5 +29,5 @@ int main() {
     // Server:   https://discord.gg/5dZPVytKnn;
     // Telegram: https://t.me/mksDecode
     return 0; 
-    }
+}
 ``` 
